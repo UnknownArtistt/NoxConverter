@@ -23,7 +23,9 @@ gcc -o NoxConverter main.c unit_conversors.o<br>
 
 Bash Script -><br>
 chmod +x install.sh<br>
-./install.sh<br>
+./install.sh
+
+Run it -><br>
 ./NoxConverter<br>
 
 
