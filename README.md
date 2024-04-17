@@ -16,14 +16,14 @@ To install NoxConverter you need to get the source code or clone the repository 
 
 Then you can execute the bash script or you can compile the code by your own (bash script mode recommended). Take note that you will need a c/c++ compiler and figlet to run it on his whole.
 
-Compilation ->
-gcc -c unit_conversors.c
-gcc -o NoxConverter main.c unit_conversors.o
-./NoxConverter
+Compilation -><br>
+gcc -c unit_conversors.c<br>
+gcc -o NoxConverter main.c unit_conversors.o<br>
+./NoxConverter<br>
 
-Bash Script ->
-chmod +x install.sh
-./install.sh
-./NoxConverter
+Bash Script -><br>
+chmod +x install.sh<br>
+./install.sh<br>
+./NoxConverter<br>
 
 
