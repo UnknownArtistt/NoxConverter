@@ -12,7 +12,7 @@ These are the units and currency that NoxConverter can convert:
 
 ## Installation
 
-To install NoxConverter you need to get the source code or clone the repository -> git clone https://github.com/Julen-H/NoxConverter
+To install NoxConverter you need to get the source code or clone the repository -> git clone https://github.com/UnknownArtistt/NoxConverter
 
 Then you can execute the bash script or you can compile the code by your own (bash script mode recommended). Take note that you will need a c/c++ compiler and figlet to run it on his whole.
 
